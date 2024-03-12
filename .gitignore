@@ -18,3 +18,7 @@ __pycache__
 
 # nimble build dir
 build/
+
+# rust build dir
+target
+
